@@ -29,7 +29,7 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="e1bf4059-4ecf-4570-838b-c03dd15b46c0">
-      <console name="Connection" type="STANDARD" schema="information_schema" session="Main" />
+      <console name="Connection" type="STANDARD" schema="public" session="Main"><![CDATA[update bitcoin set start_tragin ='21003' where bargainning_id='12';]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
